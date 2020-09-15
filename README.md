@@ -14,6 +14,20 @@ HTML5, CSS3 / SASS, JavaScript / jQuery, PHP
 
 [https://project/](https://project/)
 
+---
+
+### Files
+
+- index.html - with basic structure
+- CSS files - style.css, normalize.css
+- SASS files - global styles, fonts, mixins, variables, media queries
+- JS files - main.js, jQuery v3.5.1
+- PHP files - send.php and PHPMailer
+- favicon.ico
+- fonts
+
+---
+
 ### Fonts
 
 Formats: ttf, woff and woff2
