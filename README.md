@@ -32,14 +32,15 @@ HTML5, CSS3 / SASS, JavaScript / jQuery, PHP
 
 Formats: ttf, woff and woff2
 
+- Bebas Neue
 - Exo2
 - Merriweather
 - Montserrat
 - Muli
 - Nunito
-- OpenSans
-- OutrunFuture
-- PlayfairDisplay
+- Open Sans
+- Outrun Future
+- Playfair Display
 - Roboto
-- SourceSansPro
-- WorkSans
+- Source Sans Pro
+- Work Sans
