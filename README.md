@@ -43,4 +43,5 @@ Formats: ttf, woff and woff2
 - Playfair Display
 - Roboto
 - Source Sans Pro
+- Ubuntu
 - Work Sans
