@@ -35,6 +35,7 @@ Formats: ttf, woff and woff2
 - Bebas Neue
 - Exo2
 - Inconsolata
+- Josefin Sans
 - Merriweather
 - Montserrat
 - Muli
