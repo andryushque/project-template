@@ -41,6 +41,7 @@ Formats: ttf, woff and woff2
 - Nunito
 - Open Sans
 - Outrun Future
+- Play
 - Playfair Display
 - Roboto
 - Source Sans Pro
