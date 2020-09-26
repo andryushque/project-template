@@ -45,6 +45,7 @@ Formats: ttf, woff and woff2
 - Play
 - Playfair Display
 - Roboto
+- Rubik
 - Source Sans Pro
 - Ubuntu
 - Work Sans
