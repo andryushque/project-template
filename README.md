@@ -41,6 +41,7 @@ Formats: ttf, woff and woff2
 - Muli
 - Nunito
 - Open Sans
+- Oswald
 - Outrun Future
 - Play
 - Playfair Display
