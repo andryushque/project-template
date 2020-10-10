@@ -1,17 +1,18 @@
-@mixin title($font-size: 4.8rem, $font-weight: 400, $color: $color-light, $text-transform: uppercase)
+/*=== Text styles ===*/
+@mixin title($font-size: 3.2rem, $line-height: 1.2, $font-weight: 400, $font-style: normal, $color: $color-light, $text-transform: uppercase)
   font-family: "PlayfairDisplay"
   font-size: $font-size
   font-weight: $font-weight
-  font-style: normal
-  line-height: $font-size * 1.2
+  font-style: $font-style
+  line-height: $line-height
   color: $color
   text-transform: $text-transform
 
-@mixin text($font-size: 1.6rem, $font-weight: 400, $color: $color-light, $text-transform: none)
+@mixin text($font-size: 1.6rem, $line-height: 1.5, $font-weight: 400, $font-style: normal, $color: $color-light, $text-transform: none)
   font-family: "WorkSans"
   font-size: $font-size
   font-weight: $font-weight
-  font-style: normal
-  line-height: $font-size * 1.25
+  font-style: $font-style
+  line-height: $line-height
   color: $color
   text-transform: $text-transform
