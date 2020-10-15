@@ -39,6 +39,7 @@ Formats: ttf, woff and woff2
 - Merriweather
 - Montserrat
 - Muli
+- Mulish
 - Nunito
 - Open Sans
 - Oswald
