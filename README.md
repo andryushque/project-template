@@ -10,9 +10,9 @@ HTML5, CSS3 / SASS, JavaScript / jQuery, PHP
 
 ### Links to website
 
-[https://project/](https://project/)
+[https://andrey-ustinov.ru/project/](https://andrey-ustinov.ru/project/)
 
-[https://project/](https://project/)
+[https://andryushque.github.io/project/](https://andryushque.github.io/project/)
 
 ---
 
