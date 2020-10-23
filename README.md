@@ -32,6 +32,7 @@ HTML5, CSS3 / SASS, JavaScript / jQuery, PHP
 
 Formats: ttf, woff and woff2
 
+- Aldrich
 - Bebas Neue
 - Exo2
 - Inconsolata
