@@ -47,6 +47,7 @@ Formats: ttf, woff and woff2
 - Outrun Future
 - Play
 - Playfair Display
+- Poppins
 - Roboto
 - Rubik
 - Source Sans Pro
